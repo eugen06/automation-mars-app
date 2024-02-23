@@ -1,8 +1,10 @@
 # automation-mars-app
 #start mars-app project
+```````````````````````
 $ cd mars-mission/
 $ npm install
 $ npm start
+``````````````````````
 Now, the browser will launch on http://localhost:3000
 
 Then
