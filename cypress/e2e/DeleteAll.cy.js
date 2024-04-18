@@ -19,7 +19,7 @@ describe('Create Task', () => {
         cy.get('#task-list').should('contain.text', 'Prof');
         cy.screenshot('created_task');
     //   });
-
+// delete spec
     // it('deletes all tasks', () => {
         cy.get('#delete-all-tasks').click();
         cy.get('#task-list').should('not.contain.text', 'Sample Task');
