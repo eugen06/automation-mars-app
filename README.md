@@ -18,3 +18,4 @@ $ npx cypress run --spec .\cypress\e2e\ViewTest.cy.js  (specific spec)
 `````````````````````
 ## Installations ##
 Install VS Code
+check how to Install guide
